@@ -1,6 +1,11 @@
 # crawler_scrapy
 This repo is about crawling website using scrapy
 
+## How to create a project
+```
+scrapy startproject [project_name]
+```
+
 ## Get crawler list
 Go to intended folder to get it list with `list` command
 ```
